@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Welcome to openMOOF](README.md)
-* [👋 Welcome to A Product](welcome-to-a-product.md)
+* [👋 Welcome to A Product](README.md)
 
 ## Overview
 
