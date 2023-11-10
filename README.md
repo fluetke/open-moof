@@ -1,4 +1,8 @@
-# 👋 Welcome to A Product
+---
+description: An open resource for DIY repair of the Vanmoof S3.
+---
+
+# 👋 Welcome to openMOOF
 
 {% hint style="info" %}
 **Work in Progress:** These pages are still a work in progress, ymmv.
@@ -47,12 +51,12 @@ source: [https://www.reddit.com/r/vanmoofbicycle/comments/17p548j/s3\_right\_cra
 
 ## Quick links
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
+{% content-ref url="vanmoof-s3/compatible-spare-parts.md" %}
+[compatible-spare-parts.md](vanmoof-s3/compatible-spare-parts.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
+{% content-ref url="vanmoof-s3/3d-printable-parts.md" %}
+[3d-printable-parts.md](vanmoof-s3/3d-printable-parts.md)
 {% endcontent-ref %}
 
 ## Get Started

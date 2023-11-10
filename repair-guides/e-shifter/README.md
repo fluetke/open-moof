@@ -1,4 +1,10 @@
-# 📪 Making a post
+---
+description: How to fix the Vanmoof e-Shifter and with it the dreaded error 44.
+---
+
+# 📪 e-Shifter
+
+## Possible e-Shifter Errors
 
 ## Step 1 - Start journalling
 

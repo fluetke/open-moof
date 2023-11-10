@@ -1,16 +1,24 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [👋 Welcome to openMOOF](README.md)
 
-## Overview
+## Vanmoof S3
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [💡 Compatible Spare Parts](vanmoof-s3/compatible-spare-parts.md)
+* [✨ 3D Printable Parts](vanmoof-s3/3d-printable-parts.md)
 
-## Product Guides
+## Repair Guides
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [🚲 Full disassembly](repair-guides/full-disassembly.md)
+* [🧲 Hub-Motor](repair-guides/hub-motor/README.md)
+  * [Removing the front wheel and hub motor](repair-guides/hub-motor/removing-the-front-wheel-and-hub-motor.md)
+  * [Opening the motor](repair-guides/hub-motor/opening-the-motor.md)
+  * [Replacing the planetary gears](repair-guides/hub-motor/replacing-the-planetary-gears.md)
+  * [Replacing the hall-sensor](repair-guides/hub-motor/replacing-the-hall-sensor.md)
+* [📪 e-Shifter](repair-guides/e-shifter/README.md)
+  * [Error 44 / Communication issues](repair-guides/e-shifter/error-44-communication-issues.md)
+* [📎 Cable harness](repair-guides/cable-harness/README.md)
+  * [Removing the cable-harness](repair-guides/cable-harness/removing-the-cable-harness.md)
 
 ## Fundamentals
 

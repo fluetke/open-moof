@@ -1,0 +1,2 @@
+# Replacing the hall-sensor
+
