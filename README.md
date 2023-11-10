@@ -51,12 +51,12 @@ source: [https://www.reddit.com/r/vanmoofbicycle/comments/17p548j/s3\_right\_cra
 
 ## Quick links
 
-{% content-ref url="vanmoof-s3/compatible-spare-parts.md" %}
-[compatible-spare-parts.md](vanmoof-s3/compatible-spare-parts.md)
+{% content-ref url="overview/what-we-do.md" %}
+[what-we-do.md](overview/what-we-do.md)
 {% endcontent-ref %}
 
-{% content-ref url="vanmoof-s3/3d-printable-parts.md" %}
-[3d-printable-parts.md](vanmoof-s3/3d-printable-parts.md)
+{% content-ref url="overview/our-features.md" %}
+[our-features.md](overview/our-features.md)
 {% endcontent-ref %}
 
 ## Get Started

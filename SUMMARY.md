@@ -4,8 +4,8 @@
 
 ## Vanmoof S3
 
-* [💡 Compatible Spare Parts](vanmoof-s3/compatible-spare-parts.md)
-* [✨ 3D Printable Parts](vanmoof-s3/3d-printable-parts.md)
+* [💡 Compatible Spare Parts](overview/what-we-do.md)
+* [✨ 3D Printable Parts](overview/our-features.md)
 
 ## Repair Guides
 
@@ -15,9 +15,9 @@
   * [Opening the motor](repair-guides/hub-motor/opening-the-motor.md)
   * [Replacing the planetary gears](repair-guides/hub-motor/replacing-the-planetary-gears.md)
   * [Replacing the hall-sensor](repair-guides/hub-motor/replacing-the-hall-sensor.md)
-* [📪 e-Shifter](repair-guides/e-shifter/README.md)
+* [📪 e-Shifter](product-guides/making-a-post.md)
   * [Error 44 / Communication issues](repair-guides/e-shifter/error-44-communication-issues.md)
-* [📎 Cable harness](repair-guides/cable-harness/README.md)
+* [📎 Cable harness](product-guides/understanding-projects.md)
   * [Removing the cable-harness](repair-guides/cable-harness/removing-the-cable-harness.md)
 
 ## Fundamentals

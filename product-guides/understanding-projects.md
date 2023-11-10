@@ -1,4 +1,4 @@
-# 📎 Understanding Projects
+# 📎 Cable harness
 
 ## How Projects work
 
