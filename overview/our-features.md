@@ -25,6 +25,7 @@ description: >-
 * &#x20;phone-mount for S2/S3 by fluetke -> [https://www.printables.com/model/205162-phone-mount-for-vanmoof-s2s3s5-v20](https://www.printables.com/model/205162-phone-mount-for-vanmoof-s2s3s5-v20)
 * charger wallmount with aircompressor by fluetke -> [https://www.printables.com/model/522243-wall-mount-for-vanmoof-s2-e-bike-charger-with-xiao](https://www.printables.com/model/522243-wall-mount-for-vanmoof-s2-e-bike-charger-with-xiao)
 * beer crate holder for rear rack by PjotrStrog -> [https://www.printables.com/model/78128-beer-crate-holder-for-vanmoof-s3-bike-rack-v2](https://www.printables.com/model/78128-beer-crate-holder-for-vanmoof-s3-bike-rack-v2)
+* rear-rflector holder for rear-fender by F. Weinmann -> [https://thangs.com/designer/F.%20Weinmann/3d-model/VanMoof%20S3%20Reflektorhalterung-516884](https://thangs.com/designer/F.%20Weinmann/3d-model/VanMoof%20S3%20Reflektorhalterung-516884)
 
 ## Parts for other Vanmoof bikes:
 
