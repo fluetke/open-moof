@@ -4,6 +4,7 @@
 
 ## Vanmoof S3
 
+* [🔢 Error codes](vanmoof-s3/error-codes.md)
 * [💡 Compatible Spare Parts](overview/what-we-do.md)
 * [✨ 3D Printable Parts](overview/our-features.md)
 
