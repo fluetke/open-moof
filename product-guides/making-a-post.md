@@ -6,6 +6,10 @@ description: How to fix the Vanmoof e-Shifter and with it the dreaded error 44.
 
 ## Possible e-Shifter Errors
 
+* Error in communication of eShifter and smart cartridge, see [error-44-communication-issues.md](../repair-guides/e-shifter/error-44-communication-issues.md "mention")
+* wrong alignment of eShifter hub gear
+* faulty hall-effect sensor for gear selection
+
 ## Step 1 - Start journalling
 
 Donec sed odio dui. Curabitur blandit tempus porttitor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla. Maecenas sed diam eget risus varius blandit sit amet non magna. Aenean lacinia bibendum nulla sed consectetur.
