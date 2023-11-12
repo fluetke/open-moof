@@ -25,6 +25,8 @@
   * [Removing the cable-harness](repair-guides/cable-harness/removing-the-cable-harness.md)
 * [💻 Smartcartridge](repair-guides/smartcartridge/README.md)
   * [Replacing the internal speaker](repair-guides/smartcartridge/replacing-the-internal-speaker.md)
+* [🔋 Battery](repair-guides/battery.md)
+* [Random collection of links](repair-guides/random-collection-of-links.md)
 
 ## Fundamentals
 
