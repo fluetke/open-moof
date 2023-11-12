@@ -17,6 +17,7 @@
   * [Replacing the planetary gears](repair-guides/hub-motor/replacing-the-planetary-gears.md)
   * [Replacing the hall-sensor](repair-guides/hub-motor/replacing-the-hall-sensor.md)
 * [📪 e-Shifter](product-guides/making-a-post.md)
+  * [Manual shifter conversion](repair-guides/e-shifter/manual-shifter-conversion.md)
   * [Set shifter to fixed 3rd gear](repair-guides/e-shifter/set-shifter-to-fixed-3rd-gear.md)
   * [Hub gear miss-alignment](repair-guides/e-shifter/hub-gear-miss-alignment.md)
   * [Error 44 / Communication issues](repair-guides/e-shifter/error-44-communication-issues.md)

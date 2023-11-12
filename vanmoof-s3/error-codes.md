@@ -9,7 +9,9 @@ description: >-
 
 
 
-## Err 6 - Battery not charging
+## Err 4 - Battery in deep discharge state
+
+## Err 6 - Battery cells imbalanced / battery fuse blown
 
 ## Err 12 - Temperature to low
 
