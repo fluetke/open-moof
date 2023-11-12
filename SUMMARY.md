@@ -23,6 +23,8 @@
   * [Error 44 / Communication issues](repair-guides/e-shifter/error-44-communication-issues.md)
 * [📎 Cable harness](product-guides/understanding-projects.md)
   * [Removing the cable-harness](repair-guides/cable-harness/removing-the-cable-harness.md)
+* [💻 Smartcartridge](repair-guides/smartcartridge/README.md)
+  * [Replacing the internal speaker](repair-guides/smartcartridge/replacing-the-internal-speaker.md)
 
 ## Fundamentals
 
