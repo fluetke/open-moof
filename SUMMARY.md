@@ -16,6 +16,7 @@
   * [Opening the motor](repair-guides/hub-motor/opening-the-motor.md)
   * [Replacing the planetary gears](repair-guides/hub-motor/replacing-the-planetary-gears.md)
   * [Replacing the hall-sensor](repair-guides/hub-motor/replacing-the-hall-sensor.md)
+  * [Motor Connector](repair-guides/hub-motor/motor-connector.md)
 * [📪 e-Shifter](product-guides/making-a-post.md)
   * [Manual shifter conversion](repair-guides/e-shifter/manual-shifter-conversion.md)
   * [Set shifter to fixed 3rd gear](repair-guides/e-shifter/set-shifter-to-fixed-3rd-gear.md)
