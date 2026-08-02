@@ -12,5 +12,6 @@ Reference pages hold facts that are reused by multiple procedures:
 * [REF-004 Connectors](connectors.md)
 * [REF-005 Bearings and seals](bearings-and-seals.md)
 * [REF-006 Spare parts](spare-parts.md)
+* [REF-007 Recorded firmware history](firmware-history.md)
 
 Each entry should cite the procedure or workshop record from which it was obtained. Measurements must include units, and manufacturer data must be distinguishable from values verified in practice.

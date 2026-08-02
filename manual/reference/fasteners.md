@@ -24,7 +24,7 @@ This register records fasteners identified during disassembly. A dash means that
 | SCR-012 | Unidentified bracket | SHCS | M5 | 18 mm | 4 mm hex socket | 4 mm hex key | — | 2 | Assignment **to verify** |
 | SCR-013 | Crank bolt | SHCS | M8 | 20 mm | 8 mm hex socket | 8 mm hex key | — | 2 | With rubber ring |
 | SCR-014 | Chain tensioner housing cover | BHCS | M4 | 7 mm | 2.5 mm hex socket | 2.5 mm hex key | — | 1 | — |
-| SCR-015 | Smart Cartridge and socket | FHCS | M3 | 8 mm | Security Torx | Security Torx; size not recorded | — | 8 | Cartridge/socket |
+| SCR-015 | Smart Cartridge and socket | FHCS | M3 | 8 mm | Security Torx | Torx T9 | — | 8 | Cartridge/socket; T9 confirmed in workshop |
 | SCR-016 | Front fender, short | Hex head with cross recess | M5 | 9 mm | 8 mm external hex and cross recess | 8 mm wrench | — | 2 | — |
 | SCR-017 | Front fender, long | Hex head with cross recess | M5 | 16 mm | 8 mm external hex and cross recess | 8 mm wrench | — | 4 | With rubber buffer |
 | SCR-018 | Antenna cover | Countersunk; exact type not recorded | M2.5 | 6 mm | Security Torx | Security Torx; size not recorded | — | 2 | — |
@@ -32,6 +32,9 @@ This register records fasteners identified during disassembly. A dash means that
 | SCR-020 | Chain tensioner mounting | FHCS | M4 | 18 mm | Hex socket | 3 mm hex key | — | 1 | — |
 | SCR-021 | Chain tensioner mounting | BHCS | M4 | Approximately 24 mm | Hex socket | 3 mm hex key | — | 1 | Length **to verify** |
 | SCR-022 | Front motor axle | Hex nut | Unknown | — | External hex | Size not recorded | [30 Nm](torque-specifications.md#manufacturer-specified-torques) | Not recorded | Axle has a shaped anti-rotation feature; verify torque applicability to observed configuration |
+
+| SCR-023 | Kick Lock | FHCS | Unknown | Approximately 12–15 mm | Security Torx | T25 Security | — | Not recorded | Length and thread to verify; blue threadlocker observed |
+| SCR-024 | Handlebar/button area | Set screw | Unknown | Approximately 4–5 mm | Hex socket | 2 mm hex key | — | 1 observed | Exact assignment to verify; corresponding right-side screw missing |
 
 ## Washer register
 

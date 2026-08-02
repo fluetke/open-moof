@@ -14,6 +14,11 @@ The current [full-disassembly record](../../repair-guides/full-disassembly.md) w
 
 New chronological procedures should use `DEM-###` identifiers and link to the applicable fastener, tool, connector, and torque references.
 
+Workshop-log procedures are now consolidated in:
+
+* [drivetrain and bottom bracket](drivetrain-and-bottom-bracket.md)
+* [chassis, controls, and electronics](chassis-and-controls.md)
+
 ## Battery removal workshop findings
 
 During one documented S3 repair, the rear tyre was deflated before the battery was successfully removed. The exposed interior appeared clean after removal. This observation comes from repair audio notes and is **not yet a complete removal procedure**: the reason for deflating the tyre, the required pressure, omitted prerequisite steps, and the battery's removal direction remain to be verified.
