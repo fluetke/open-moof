@@ -13,7 +13,7 @@ This register records fasteners identified during disassembly. A dash means that
 | SCR-001 | Lower battery cover, centre | BHCS | M5 | 12 mm | Security Torx | T25 Security (**to verify**) | — | 1 | Identical to the side screws |
 | SCR-002 | Lower battery cover, sides | BHCS | M5 | 12 mm | Security Torx | T25 Security (**to verify**) | — | 2 | With washer |
 | SCR-003 | Rubber/plastic block | SHCS | M5 | 18 mm | Hex socket | 4 mm hex key | — | 2 | — |
-| SCR-004 | Kickstand | SHCS | M10 (**suspected**) | 30 mm | 8 mm hex socket | 8 mm hex key | — | 1 | Material marking: 304 |
+| SCR-004 | Kickstand | SHCS | M10 (**suspected**) | 30 mm | 8 mm hex socket | [8 mm hex key](tools.md#tool-register) | — | 1 | Material marking: 304; slight corrosion observed in the area |
 | SCR-005 | Kickstand adjustment | Set screw | Unknown | — | 4 mm hex socket | 4 mm hex key | — | 1 | — |
 | SCR-006 | Rear axle nut | Hex nut | M10 (**suspected**) | — | External hex | Socket wrench; size not recorded | [30 Nm](torque-specifications.md#manufacturer-specified-torques) | 2 | Manufacturer-specified torque |
 | SCR-007 | Motor-cable cover | SHCS | M4 | 8 mm | 3 mm hex socket | 3 mm hex key | [2 Nm](torque-specifications.md#manufacturer-specified-torques) | 2 | Manufacturer-specified torque |
@@ -31,6 +31,13 @@ This register records fasteners identified during disassembly. A dash means that
 | SCR-019 | Front light | Set screw | M5 | 8 mm | Security hex socket | Security hex key; size not recorded | — | 1 | — |
 | SCR-020 | Chain tensioner mounting | FHCS | M4 | 18 mm | Hex socket | 3 mm hex key | — | 1 | — |
 | SCR-021 | Chain tensioner mounting | BHCS | M4 | Approximately 24 mm | Hex socket | 3 mm hex key | — | 1 | Length **to verify** |
+| SCR-022 | Front motor axle | Hex nut | Unknown | — | External hex | Size not recorded | [30 Nm](torque-specifications.md#manufacturer-specified-torques) | Not recorded | Axle has a shaped anti-rotation feature; verify torque applicability to observed configuration |
+
+## Washer register
+
+| ID | Assembly or location | Shape | Quantity | Order | Notes |
+| --- | --- | --- | ---: | --- | --- |
+| WSH-001 | Front motor axle / axle nuts | Completely round | Not recorded | **To verify** | The anti-rotation feature is part of the motor axle, not the washer |
 
 ## Type abbreviations
 
