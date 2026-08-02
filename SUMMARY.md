@@ -15,10 +15,13 @@
   * [REF-004 Connectors](manual/reference/connectors.md)
   * [REF-005 Bearings and seals](manual/reference/bearings-and-seals.md)
   * [REF-006 Spare parts](manual/reference/spare-parts.md)
+  * [REF-007 Recorded firmware history](manual/reference/firmware-history.md)
 
 ### Procedures
 
 * [Disassembly](manual/disassembly/README.md)
+  * [DEM-003 Drivetrain and bottom bracket](manual/disassembly/drivetrain-and-bottom-bracket.md)
+  * [DEM-004 Chassis, controls, and electronics](manual/disassembly/chassis-and-controls.md)
 * [Assembly](manual/assembly/README.md)
 * [Maintenance](manual/maintenance/README.md)
 * [Reverse engineering](manual/reverse-engineering/README.md)
