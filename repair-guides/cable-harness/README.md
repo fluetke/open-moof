@@ -8,9 +8,9 @@ description: Oh Boy, this one's a hard piece of work.
 
 To replace the harness, you need to remove EVERY SINGLE PART from your bike.
 
-Start by removing the rear wheel and eShifter as described in [making-a-post.md](making-a-post.md "mention")
+Start by removing the rear wheel and eShifter as described in the [e-Shifter guide](../e-shifter/README.md "mention")
 
-Proceed by removing the front wheel and hub motor as describe in [removing-the-front-wheel-and-hub-motor.md](../repair-guides/hub-motor/removing-the-front-wheel-and-hub-motor.md "mention")
+Proceed by removing the front wheel and hub motor as describe in [removing-the-front-wheel-and-hub-motor.md](../hub-motor/removing-the-front-wheel-and-hub-motor.md "mention")
 
 With booth wheels removed, go ahead and remove the saddle (easy done using the torx 0 screw on the seatpost with the torx wrench in your Vanmoof toolkit).
 
@@ -67,4 +67,3 @@ You might want to prepare the wires for the battery and the brakelines by 3d pri
 If you need to use brute force for something, you're doing it wrong.
 
 Take a break, go boxing to get rid of your rising aggression and try again the next day. And believe me, you will get quite aggressive when trying to replace this pos without a manual.
-

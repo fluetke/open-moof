@@ -31,9 +31,3 @@ description: >-
 
 * S2 boost button mount by munstudio -> [https://www.thingiverse.com/thing:5535153](https://www.thingiverse.com/thing:5535153)
 * S2 charger wallmount by fluetke -> [https://www.printables.com/model/287574-wallmount-for-charger-of-vanmoof-s2](https://www.printables.com/model/287574-wallmount-for-charger-of-vanmoof-s2)
-
-
-
-{% hint style="info" %}
-**GitBook tip:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at Loom as a perfect example of a succinct feature overview.
-{% endhint %}
