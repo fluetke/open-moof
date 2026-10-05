@@ -1,3 +1,5 @@
+
+
 ---
 description: An open resource for DIY repair of the Vanmoof S3.
 ---
@@ -26,4 +28,8 @@ The manual separates reference data, disassembly, assembly, maintenance, reverse
 
 {% content-ref url="manual/README.md" %}
 [Repair manual structure](manual/README.md)
+{% endcontent-ref %}
+
+{% content-ref url="vanmoof-s3/error-codes.md" %}
+[S3 error codes](vanmoof-s3/error-codes.md)
 {% endcontent-ref %}
