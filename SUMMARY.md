@@ -26,6 +26,7 @@
 * [Maintenance](manual/maintenance/README.md)
 * [Reverse engineering](manual/reverse-engineering/README.md)
 * [Appendix](manual/appendix/README.md)
+  * [Community and software resources](manual/appendix/community-and-software-resources.md)
 
 ## Vanmoof S3
 
